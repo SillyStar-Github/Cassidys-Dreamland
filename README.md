@@ -11,3 +11,5 @@ A set of addons and modifications to PvZ: Fusion that create my ideal game exper
 
 ## Features
 **Unsealed Overclocked Cherrybomber** - Let Overclocked Cherrybomber loose on your next run with the dealer's curse!
+
+![preview](https://github.com/SillyStar-Github/Cassidys-Dreamland/blob/main/cassidy's%20dreamland.png?raw=true)
